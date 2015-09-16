@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 龍王兄弟經
+#+DATE: 2015-08-30 20:13:30.684002
+#+PROPERTY: JUAN 0
