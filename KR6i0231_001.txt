@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:30.905959
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:59
 #+TITLE: 龍王兄弟經
 #+PROPERTY: CBETA_ID T15n0597
 #+PROPERTY: ID KR6i0231
